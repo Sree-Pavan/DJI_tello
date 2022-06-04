@@ -1,9 +1,9 @@
 ﻿
 
-#DJI TELLO LAB EXPERIMENTS
+# DJI TELLO LAB EXPERIMENTS
 
 
-##LAB 1 : AUTONOMOUS FACE DETECTION
+## LAB 1 : AUTONOMOUS FACE DETECTION
 
 Objective of the lab is to achieve autonomous face detection using DJI Tello drone.
 
@@ -83,7 +83,7 @@ as the previous one.
 
 
 
-##LAB 3 : CONTROLLING THE DRONE WITH BODY POSTURES
+## LAB 3 : CONTROLLING THE DRONE WITH BODY POSTURES
 
 This lab project is very important for basic drone programming.
 
@@ -121,7 +121,7 @@ one of the significant limitations.
 
 
 
-##LAB 4 : CONTROLLING THE DRONE WITH HAND GESTURES
+## LAB 4 : CONTROLLING THE DRONE WITH HAND GESTURES
 
 Same basic connections and python modules were imported and tested. This lab is very
 
@@ -147,7 +147,7 @@ less number of landmarks that the model needs to predict.
 
 
 
-##LAB 5 : YELLO
+## LAB 5 : YELLO
 
 The drone identifies various objects and performs actions based on the object detected.
 
@@ -177,7 +177,7 @@ terms of object detection.
 
 
 
-##LAB 6 : COLLISION AVOIDANCE DRONE
+## LAB 6 : COLLISION AVOIDANCE DRONE
 
 By identifying different objects in the video frame, the drone avoids collision with them.
 
